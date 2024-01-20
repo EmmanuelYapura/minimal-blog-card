@@ -1,0 +1,60 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Sora', sans-serif;
+}
+
+body {
+    background-color: #FAFAF9;
+}
+
+.card {
+    width: 368px;
+    padding: 16px 0 20px;
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    margin: 164px auto 0;
+}
+
+.img-card {
+    width: 336px;
+    height: 152px;
+    margin-bottom: 16px;
+    margin-left: 16px;
+    border-radius: 15px;
+}
+
+.info-card {
+    padding: 0 16px;
+}
+
+.tag-card {
+    font-size: 10px;
+    padding: 6px 16px;
+    border-radius: 15px;
+    background-color: #E6D6FC;
+    color: #883AE1;
+    font-weight: bold;
+}
+
+.title-card {
+    font-size: 18px;
+    padding-top: 16px;
+    padding-bottom: 6px;
+    color: #20293A;
+}
+
+.text-card {
+    font-size: 14px;
+    color: #6C727F;
+    padding-bottom: 20px;
+}
+
+.name-card {
+    border-top: 1px solid #E5EAF0;
+    padding-top: 20px;
+    font-size: 12px;
+    color: #20293A;
+    padding-left: 16px;
+}
